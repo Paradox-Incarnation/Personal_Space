@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../Learngit/gitthree"
+		},
+		{
+			"path": "../Learngit/gittwo"
+		},
+		{
+			"path": "../../Websites/Website_11"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Ideathon"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp"
+		}
+	}
+}

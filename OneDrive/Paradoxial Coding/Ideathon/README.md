@@ -1,0 +1,2 @@
+# GREEN STARTUP IDEA
+        
